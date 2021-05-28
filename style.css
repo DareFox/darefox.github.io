@@ -68,6 +68,7 @@ name {
     background: linear-gradient(193deg, #006bff, #ff0090);
     background-size: 400% 400%;
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-animation: GradientAnim 16s ease infinite;
     -moz-animation: GradientAnim 16s ease infinite;
     -o-animation: GradientAnim 16s ease infinite;
